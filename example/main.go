@@ -29,7 +29,7 @@ import (
 )
 
 func main() {
-	providerUrl := os.Getenv("ZITADEL_TOKEN")
+	providerUrl := os.Getenv("ZITADEL_PROVIDER")
 	clientId := os.Getenv("ZITADEL_CLIENTID")
 
 	app := fiber.New()
