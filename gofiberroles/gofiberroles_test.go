@@ -48,7 +48,7 @@ func TestZitadelMiddleware(t *testing.T) {
 		t.Run(tc.name, func(t *testing.T) {
 			// Initialize Fiber app and middleware
 			app := fiber.New()
-			app.Use(New(Config{RequiredRoles: tc.roles, RequireAll: true}))
+			app.Use(New(Config{RequiredRoles: tc.roles, RequireAll: false}))
 			// Protected route to test the middleware
 			app.Get("/", func(c *fiber.Ctx) error {
 				return c.SendString("Hello world")

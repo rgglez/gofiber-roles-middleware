@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+# pytest
+__pycache__
+.pytest_cache
