@@ -36,7 +36,7 @@ There are some configuration options available in the ```Config``` struct:
 ## Notes
 
 * This middleware **does not verify the signature of the token**. It assumes that your program does that verification with some other middleware.
-* The middleware was written with [Zitadel](https://zitadel.io) in mind. You might need to make some adjustments so it works with other claims structure.
+* The middleware was written with [Zitadel](https://zitadel.io) in mind. You might need to make some adjustments so it works with other claims structure. The token is assumed to be encoded with Base64 and just signed, not encrypted.
 
 ## Example
 
