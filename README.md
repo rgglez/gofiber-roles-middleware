@@ -4,7 +4,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/gofiber-roles-middleware)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rgglez/gofiber-roles-middleware)](https://goreportcard.com/report/github.com/rgglez/gofiber-roles-middleware)
 [![GitHub release](https://img.shields.io/github/release/rgglez/gofiber-roles-middleware.svg)](https://github.com/rgglez/gofiber-roles-middleware/releases/)
-
+![GitHub stars](https://img.shields.io/github/stars/rgglez/gofiber-roles-middleware?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/gofiber-roles-middleware?style=social)
 
 **gofiber-roles-middleware** is a [gofiber](https://gofiber.io/) [middleware](https://docs.gofiber.io/category/-middleware/) which verifies if the specified role(s) are present in a customizable key in the custom claims part of a given [JWT token](https://jwt.io/).
 
