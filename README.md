@@ -93,6 +93,6 @@ A test is included. To run the test you must:
 
 ## License
 
-Copyright (c) 2024 Rodolfo González González
+Copyright (c) 2026 Rodolfo González González
 
 Licensed under the [Apache 2.0](LICENSE) license. Read the [LICENSE](LICENSE) file.
