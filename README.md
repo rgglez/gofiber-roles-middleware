@@ -2,7 +2,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/gofiber-roles-middleware/total)
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/gofiber-roles-middleware)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/gofiber-roles-middleware)
-[![Go Report Card](https://goreportcard.com/badge/github.com/rgglez/gofiber-roles-middleware)](https://goreportcard.com/report/github.com/rgglez/gofiber-roles-middleware)
 [![GitHub release](https://img.shields.io/github/release/rgglez/gofiber-roles-middleware.svg)](https://github.com/rgglez/gofiber-roles-middleware/releases/)
 ![GitHub stars](https://img.shields.io/github/stars/rgglez/gofiber-roles-middleware?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rgglez/gofiber-roles-middleware?style=social)
